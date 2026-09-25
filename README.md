@@ -117,3 +117,4 @@ Use the coupon code **100-OFF** to get 100% discount
 // RoadMap to be added
 
 A star to the repo would be fantastic
+- [Onchain Diary](https://theonchaindiary.com/) - Web3 security post-mortems & attacker economics
